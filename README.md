@@ -1,6 +1,6 @@
-## Super Store Sales Dashboard – Exploratory Sales Analysis & Visualization
+# Super Store Sales Dashboard – Exploratory Sales Analysis & Visualization
 
-# Project Overview
+## Project Overview
 
 This project presents an interactive Super Store Sales Dashboard designed to analyze sales performance, profitability, customer demand, and logistics efficiency across multiple regions in the United States. The objective was to transform raw transactional data into actionable business insights that support strategic decision-making.
 The dashboard provides a consolidated view of sales trends, profit metrics, product performance, geographic distribution, and shipping behavior, enabling stakeholders to quickly identify growth drivers and operational bottlenecks.
